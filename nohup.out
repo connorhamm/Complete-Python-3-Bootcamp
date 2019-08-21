@@ -1,0 +1,19 @@
+/home/connor/Templates was removed, reassigning TEMPLATES to homedir
+/home/connor/Public was removed, reassigning PUBLICSHARE to homedir
+/home/connor/Documents was removed, reassigning DOCUMENTS to homedir
+/home/connor/Music was removed, reassigning MUSIC to homedir
+/home/connor/Pictures was removed, reassigning PICTURES to homedir
+/home/connor/Videos was removed, reassigning VIDEOS to homedir
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "canberra-gtk-module"
+[0820/080702.070828:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "canberra-gtk-module"
+[0820/081225.778563:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+terminating
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+Gtk-Message: Failed to load module "canberra-gtk-module"
+[0821/080610.284657:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
